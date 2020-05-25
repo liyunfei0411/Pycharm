@@ -8,7 +8,8 @@
 安装完成 不要打开直接关闭。
 1. 载下来后，将补丁copy至Pycharm安装目录的bin目录下
 
-
+3、下载 JetbrainsCrack
+下载链接：https://download.csdn.net/download/qq_27061049/11173615
 
 2.在Pycharm安装目录的bin目录中找到pycharm.exe.vmoptions和pycharm64.exe.vmoptions 这两个文件，用记事本打开，在文件最后追加一行内容：-javaagent:Pycharm安装路径\bin\JetbrainsCrack-release-enc.jar，最后记得保存退出。
 
