@@ -1,4 +1,11 @@
 # Pycharm
+官网 ：https://www.jetbrains.com/pycharm/download/index.html#section=windows
+不同版本下载：https://www.jetbrains.com/pycharm/download/previous.html
+
+我的安装的是： 2018.2.8
+(不同版本对后来的激活有影响，在使用2018.3.5 / 2019.1.2 版本上 并不能激活成功)
+
+安装完成 不要打开直接关闭。
 1. 载下来后，将补丁copy至Pycharm安装目录的bin目录下
 
 
